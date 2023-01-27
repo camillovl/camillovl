@@ -1,7 +1,9 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu perfil do github
+### Me chamo Vinicius Camillo, mas todo mundo me chama de Camillo
 
-- 🔭 I’m currently Looking for a job or an intern as a front-end developer
-- 🌱 I’m currently learning Javascript/Typescript
+
+- 🔭 No momento estou procurando por um estágio como mobile dev
+- 🌱 No momento estou estudando Typescript
 
 
 ## Estou aprendendo
