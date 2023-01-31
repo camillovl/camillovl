@@ -11,6 +11,10 @@
   <img src="ttps://tenor.com/pt-BR/view/coding-gif-24297652">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56173140/215867600-e1400abb-7467-43ab-989d-5217f95e91b7.gif">
+</p>
+
 ### About Me
 
 - **Cursando Eng. da Computação pela UFRN.**
