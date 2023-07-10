@@ -29,4 +29,4 @@
 
 ## 📊 [GitHub Stats]
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=camillovlpe&show_icons=true)
+![Camillo's github stats](https://github-readme-stats.vercel.app/api?username=camillovl)
