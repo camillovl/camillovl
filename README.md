@@ -26,7 +26,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" />
 
-
 ## 📊 [GitHub Stats]
 
-![Camillo's github stats](https://github-readme-stats.vercel.app/api?username=camillovl)
+| Languages | Stats |
+| --------- | ----   | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillovl&count_private=true&hide=Blade&theme=ayu-mirage&layout=compact)  | ![Camillo's github stats](https://github-readme-stats.vercel.app/api?username=camillovl&hide=contribs,issues&include_all_commits=true&show_icons=true&theme=ayu-mirage)|
