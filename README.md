@@ -29,8 +29,4 @@
 
 ## 📊 [GitHub Stats]
 
-| Languages | Stats |
-| --------- | ----   | 
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camillovl&count_private=true&hide=Blade&theme=ayu-mirage&layout=compact)  | ![Camillo's github stats](https://github-readme-stats.vercel.app/api?username=camillovl&hide=contribs,issues&include_all_commits=true&show_icons=true&theme=ayu-mirage)|
-          
- 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=camillovlpe&show_icons=true)
