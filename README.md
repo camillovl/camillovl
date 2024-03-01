@@ -18,7 +18,6 @@
 ### About Me
 
 - **Cursando Eng. da Computação pela UFRN.**
-- **Procurando por um estágio como web/mobile dev.**
 - **Constantemente busucando novos objetivos e dando o meu melhor para alcançar o sucesso.**
 
 
